@@ -1,0 +1,11 @@
+[
+  {
+    "name": "slug",
+    "fieldId": "slug",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "posts",
+    "fieldType": "string"
+  }
+]
