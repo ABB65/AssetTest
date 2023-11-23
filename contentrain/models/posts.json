@@ -7,5 +7,14 @@
     "componentId": "single-line-text",
     "modelId": "posts",
     "fieldType": "string"
+  },
+  {
+    "name": "adsasd",
+    "fieldId": "adsasd",
+    "validations": {},
+    "options": {},
+    "componentId": "rich-text-editor",
+    "modelId": "posts",
+    "fieldType": "string"
   }
 ]
