@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Posts",
+    "modelId": "posts",
+    "localization": false,
+    "type": "MDX",
+    "createdBy": "user"
+  }
+]
